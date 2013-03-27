@@ -1,8 +1,10 @@
 package wu.kuo.ActionListeners;
 
+import wu.kuo.Editor.EditorGUI;
+
 public class AddAction implements Actionable {
 	public void execute() {
-		System.out.println("Add");
+		EditorGUI.getInstance("Add Action");
 	}
 
 }

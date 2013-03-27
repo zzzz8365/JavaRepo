@@ -1,6 +1,6 @@
 package wu.kuo.Utilities;
 
-public interface Constants {
+public interface Constantable {
 	String APP_NAME = "Kuo's Defect Center";
 	String BUTTON_SEARCH = "Search";
 	String BUTTON_ADD_DEFECT = "Add";
@@ -11,6 +11,12 @@ public interface Constants {
 	
 	int WINDOW_WIDTH = 500;
 	int WINDOW_HEIGHT = 400;
+	int EDITOR_WINDOW_WIDTH = 300;
+	int EDITOR_WINDOW_HEIGHT = 300;
+	int BUTTON_WIDTH = 100;
+	int BUTTON_HEIGHT = 20;
+	int COLUMN_PAD_WIDTH = 0;
+	int COLUMN_PAD_HEIGHT = 10;
 	int SEARCH_FIELD_WIDTH = 30;
 	
 	boolean WINDOW_VISIBILITY_TRUE = true;
