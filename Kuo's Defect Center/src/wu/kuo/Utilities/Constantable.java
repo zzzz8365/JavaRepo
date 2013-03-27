@@ -8,6 +8,9 @@ public interface Constantable {
 	String BUTTON_REMOVE_DEFECT = "Remove";
 	String BUTTON_UPDATE_DEFECT_LIST = "Update";
 	String SEARCH_FIELD_INITIAL_VALUE = "";
+	String LABEL_TITLE = "Title:";
+	String LABEL_DESCRIPTION = "Description:";
+	String LABEL_REPORT = "Report";
 	
 	int WINDOW_WIDTH = 500;
 	int WINDOW_HEIGHT = 400;
@@ -18,6 +21,7 @@ public interface Constantable {
 	int COLUMN_PAD_WIDTH = 0;
 	int COLUMN_PAD_HEIGHT = 10;
 	int SEARCH_FIELD_WIDTH = 30;
+	int EDITOR_TEXT_FIELD_WIDTH = 15;
 	
 	boolean WINDOW_VISIBILITY_TRUE = true;
 	boolean WINDOW_VISIBILITY_FALSE = false;
