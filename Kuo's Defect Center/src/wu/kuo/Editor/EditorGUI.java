@@ -27,10 +27,10 @@ public class EditorGUI extends JFrame{
 	public static JFrame getInstance(String actionTitle) {
 		if (instance == null)
 			instance = new EditorGUI();
-		instance.setupFrame(instance, actionTitle);
+		instance.setupFrame(actionTitle);
 		return instance;
 	}
-	private void setupFrame(JFrame instance, String actionTitle) {
+	private void setupFrame(String actionTitle) {
 		instance.setSize(Constantable.EDITOR_WINDOW_WIDTH, Constantable.EDITOR_WINDOW_HEIGHT);
 		instance.setVisible(Constantable.WINDOW_VISIBILITY_TRUE);
 		instance.setTitle(actionTitle);
@@ -56,11 +56,11 @@ public class EditorGUI extends JFrame{
 		instance.add(panel_Report, BorderLayout.SOUTH);
 	}
 	
-	public void setTitle(String title) {
+	public void setTitleField(String title) {
 		text_Title.setText(title);
 	}
 	
-	public String getTitle() {
+	public String getTitleField() {
 		return text_Title.getText();
 	}
 	

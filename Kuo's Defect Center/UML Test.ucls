@@ -21,7 +21,7 @@
   </interface>  
   <class id="3" language="java" name="wu.kuo.ActionListeners.AddAction" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/ActionListeners/AddAction.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="495" y="329"/>    
+    <position height="-1" width="-1" x="854" y="165"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="wu.kuo.ActionListeners.ModifyAction" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/ActionListeners/ModifyAction.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="614" y="332"/>    
+    <position height="-1" width="-1" x="740" y="373"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="wu.kuo.ActionListeners.RemoveAction" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/ActionListeners/RemoveAction.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="854" y="327"/>    
+    <position height="-1" width="-1" x="855" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="wu.kuo.ActionListeners.SearchAction" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/ActionListeners/SearchAction.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="376" y="327"/>    
+    <position height="-1" width="-1" x="853" y="59"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -57,7 +57,7 @@
   </class>  
   <class id="7" language="java" name="wu.kuo.ActionListeners.UpdateAction" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/ActionListeners/UpdateAction.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="734" y="328"/>    
+    <position height="-1" width="-1" x="855" y="374"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -66,7 +66,7 @@
   </class>  
   <class id="8" language="java" name="wu.kuo.Editor.EditorGUI" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/Editor/EditorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="585" y="677"/>    
+    <position height="-1" width="-1" x="548" y="437"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
@@ -84,7 +84,7 @@
   </class>  
   <class id="10" language="java" name="wu.kuo.Main.Main" project="Kuo&apos;s Defect Center" 
     file="/Kuo&apos;s Defect Center/src/wu/kuo/Main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="366" y="531"/>    
+    <position height="-1" width="-1" x="359" y="295"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
